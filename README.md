@@ -87,12 +87,12 @@ PM25-Forecasting/
 
 ## Tools & Technologies
 
-* **R / Python**
+* **Python**
 * Statistical analysis
 * Data visualization
 * Time-series analysis
 * Forecasting
-* Jupyter Notebook / RStudio
+* Google Colab
 
 ## Key Takeaways
 
