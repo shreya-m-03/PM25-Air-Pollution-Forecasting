@@ -100,7 +100,7 @@ This project provided practical experience in working with real-world environmen
 
 It also demonstrates how statistical and data-science techniques can be applied to an important real-world problem such as **urban air-pollution forecasting**.
 
-## Author
+## Shreya Maiti
 
 **Your Name**
 
